@@ -2067,3 +2067,8 @@ DMA0_SRC = 0x40000B0;
 DMA0_DST = 0x40000B4;
 DMA0_CNT_L = 0x40000B8;
 DMA0_CNT_H = 0x40000BA;
+
+/* Party menu options */
+Task_InitMoveRelearnerMenu = 0x80E4660 | 1;
+CB2_ReturnToPartyMenuFromSummaryScreen = 0x8122DBC | 1;
+DisplayMoveTutorMenu = 0x80e4634 | 1;
