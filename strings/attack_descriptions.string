@@ -731,7 +731,7 @@ The user smashes into\nthe target at high\nspeed. This move\nalways goes first.
 The user entangles\nthe target with its\nanchor chain while\nattacking. The target\ncannot flee.
 
 #org @DESC_AURORAVEIL
-This move reduces\ndamage from physical\nand special moves for\nfive turns during a\nhailstorm.
+This move reduces\ndamage from physical\nand special moves for\nfive turns during a\nsnowstorm.
 
 #org @DESC_BANEFULBUNKER
 Aside from protecting\nthe user from attacks,\nthis also poisons\nattackers who make\ncontact.
@@ -1329,7 +1329,7 @@ Fighting Dynamax\nmove. It raises\nally Pok\emon's\nAttack stats.
 Ghost-Type Dynamax\nmove. It lowers\nthe target's\nDefense stat.
 
 #org @DESC_MAX_HAILSTORM
-Ice-Type Dynamax\nmove. It summons\na hailstorm for\nfive turns.
+Ice-Type Dynamax\nmove. It summons\na snowstorm for\nfive turns.
 
 #org @DESC_MAX_OOZE
 Poison-Type Dynamax\nmove. It raises\nally Pok\emon's\nSp. Atk stats.
