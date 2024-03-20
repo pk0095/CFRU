@@ -464,14 +464,28 @@ static u32 AccuracyCalcPassDefAbilityItemEffect(u16 move, u8 bankAtk, u8 bankDef
 	{
 		switch (defAbility) {
 			case ABILITY_SANDVEIL:
-				if (gBattleWeather & WEATHER_SANDSTORM_ANY)
+				if (gBattleWeather & WEATHER_SANDSTORM_ANY && atkAbility != ABILITY_INFILTRATOR && atkAbility != ABILITY_KEENEYE)
 					calc = udivsi((calc * 80), 100); // 0.8 Sand Veil loss
 				break;
 
 			case ABILITY_SNOWCLOAK:
-				if (gBattleWeather & WEATHER_HAIL_ANY)
+				if (gBattleWeather & WEATHER_HAIL_ANY && atkAbility != ABILITY_INFILTRATOR && atkAbility != ABILITY_KEENEYE)
 					calc = udivsi((calc * 80), 100); // 0.8 Snow Cloak loss
+				break;
+
+			case ABILITY_MAGMAARMOR:
+				if (gBattleWeather & WEATHER_SUN_ANY && atkAbility != ABILITY_INFILTRATOR && atkAbility != ABILITY_KEENEYE)
+					calc = udivsi((calc * 80), 100); // 0.8 Magma Armor loss
+				break;
+
+			case ABILITY_WATERVEIL:
+				if (gBattleWeather & WEATHER_RAIN_ANY && atkAbility != ABILITY_INFILTRATOR && atkAbility != ABILITY_KEENEYE)
+					calc = udivsi((calc * 80), 100); // 0.8 Water Veil loss
+				break;
 		}
+
+		if(gBattleWeather & WEATHER_SANDSTORM_ANY && GetExceptionMoveType(bankAtk, move) == TYPE_ROCK)
+			calc = udivsi((calc * 130), 100); //1.3x boost for rock moves in Sandstorm
 
 		if (gBattleWeather & WEATHER_FOG_ANY)
 		{
@@ -583,6 +597,9 @@ u32 VisualAccuracyCalc_NoTarget(u16 move, u8 bankAtk)
 
 	if (IS_DOUBLE_BATTLE && ABILITY(PARTNER(bankAtk)) == ABILITY_VICTORYSTAR)
 		calc = udivsi((calc * 110), 100); // 1.1 Victory Star partner boost
+
+	if (WEATHER_HAS_EFFECT && gBattleWeather & WEATHER_SANDSTORM_ANY && GetExceptionMoveType(bankAtk, move) == TYPE_ROCK)
+		calc = udivsi((calc * 130), 100); // 1.3x boost for Rock moves in Sandstorm
 
 	if (WEATHER_HAS_EFFECT && gBattleWeather & WEATHER_FOG_ANY)
 	{

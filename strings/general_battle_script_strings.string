@@ -522,3 +522,15 @@ The storm is getting too strong to\nwithstand!
 
 #org @gText_RaidMonRanAway
 [PLAY_SE][11][00][FD][06] disappeared\nsomewhere[.]\p
+
+#org @sText_PkmnPeltedByHail
+[ATTACKER] is pelted\nby the snowstorm!
+
+#org @sText_StartedHail
+It started to snow!
+
+#org @sText_HailContinues
+A snowstorm is raging!
+
+#org @sText_HailStopped
+The snowstorm stopped.
