@@ -1307,6 +1307,756 @@ The user heals its\nown statuses and\nrestores HP. It also\nraises evasiveness.
 #org @DESC_TAKE_HEART
 The user heals its\nown statuses and\nraises its Sp. Atk\nand Sp. Def.
 
+#org @DESC_EMPTYSLOT_1XX
+Empty move.
+
+#org @DESC_EMPTYSLOT_2XX
+Empty move.
+
+#org @DESC_EMPTYSLOT_3XX
+Empty move.
+
+#org @DESC_EMPTYSLOT_4XX
+Empty move.
+
+#org @DESC_EMPTYSLOT_5XX
+Empty move.
+
+#org @DESC_EMPTYSLOT_6XX
+Empty move.
+
+#org @DESC_EMPTYSLOT_7XX
+Empty move.
+
+#org @DESC_EMPTYSLOT_8XX
+Empty move.
+
+#org @DESC_EMPTYSLOT_9XX
+Empty move.
+
+#org @DESC_EMPTYSLOT_10X
+Empty move.
+
+#org @DESC_EMPTYSLOT_11X
+Empty move.
+
+#org @DESC_EMPTYSLOT_12X
+Empty move.
+
+#org @DESC_EMPTYSLOT_13X
+Empty move.
+
+#org @DESC_EMPTYSLOT_14X
+Empty move.
+
+#org @DESC_EMPTYSLOT_15X
+Empty move.
+
+#org @DESC_EMPTYSLOT_16X
+Empty move.
+
+#org @DESC_EMPTYSLOT_17X
+Empty move.
+
+#org @DESC_EMPTYSLOT_18X
+Empty move.
+
+#org @DESC_EMPTYSLOT_19X
+Empty move.
+
+#org @DESC_EMPTYSLOT_20X
+Empty move.
+
+#org @DESC_EMPTYSLOT_21X
+Empty move.
+
+#org @DESC_EMPTYSLOT_22X
+Empty move.
+
+#org @DESC_EMPTYSLOT_23X
+Empty move.
+
+#org @DESC_EMPTYSLOT_24X
+Empty move.
+
+#org @DESC_EMPTYSLOT_25X
+Empty move.
+
+#org @DESC_EMPTYSLOT_26X
+Empty move.
+
+#org @DESC_EMPTYSLOT_27X
+Empty move.
+
+#org @DESC_EMPTYSLOT_28X
+Empty move.
+
+#org @DESC_EMPTYSLOT_29X
+Empty move.
+
+#org @DESC_EMPTYSLOT_30X
+Empty move.
+
+#org @DESC_EMPTYSLOT_31X
+Empty move.
+
+#org @DESC_EMPTYSLOT_32X
+Empty move.
+
+#org @DESC_EMPTYSLOT_33X
+Empty move.
+
+#org @DESC_EMPTYSLOT_34X
+Empty move.
+
+#org @DESC_EMPTYSLOT_35X
+Empty move.
+
+#org @DESC_EMPTYSLOT_36X
+Empty move.
+
+#org @DESC_EMPTYSLOT_37X
+Empty move.
+
+#org @DESC_EMPTYSLOT_38X
+Empty move.
+
+#org @DESC_EMPTYSLOT_39X
+Empty move.
+
+#org @DESC_EMPTYSLOT_40X
+Empty move.
+
+#org @DESC_EMPTYSLOT_41X
+Empty move.
+
+#org @DESC_EMPTYSLOT_42X
+Empty move.
+
+#org @DESC_EMPTYSLOT_43X
+Empty move.
+
+#org @DESC_EMPTYSLOT_44X
+Empty move.
+
+#org @DESC_EMPTYSLOT_45X
+Empty move.
+
+#org @DESC_EMPTYSLOT_46X
+Empty move.
+
+#org @DESC_EMPTYSLOT_47X
+Empty move.
+
+#org @DESC_EMPTYSLOT_48X
+Empty move.
+
+#org @DESC_EMPTYSLOT_49X
+Empty move.
+
+#org @DESC_EMPTYSLOT_50X
+Empty move.
+
+#org @DESC_EMPTYSLOT_51X
+Empty move.
+
+#org @DESC_EMPTYSLOT_52X
+Empty move.
+
+#org @DESC_EMPTYSLOT_53X
+Empty move.
+
+#org @DESC_EMPTYSLOT_54X
+Empty move.
+
+#org @DESC_EMPTYSLOT_55X
+Empty move.
+
+#org @DESC_EMPTYSLOT_56X
+Empty move.
+
+#org @DESC_EMPTYSLOT_57X
+Empty move.
+
+#org @DESC_EMPTYSLOT_58X
+Empty move.
+
+#org @DESC_EMPTYSLOT_59X
+Empty move.
+
+#org @DESC_EMPTYSLOT_60X
+Empty move.
+
+#org @DESC_EMPTYSLOT_61X
+Empty move.
+
+#org @DESC_EMPTYSLOT_62X
+Empty move.
+
+#org @DESC_EMPTYSLOT_63X
+Empty move.
+
+#org @DESC_EMPTYSLOT_64X
+Empty move.
+
+#org @DESC_EMPTYSLOT_65X
+Empty move.
+
+#org @DESC_EMPTYSLOT_66X
+Empty move.
+
+#org @DESC_EMPTYSLOT_67X
+Empty move.
+
+#org @DESC_EMPTYSLOT_68X
+Empty move.
+
+#org @DESC_EMPTYSLOT_69X
+Empty move.
+
+#org @DESC_EMPTYSLOT_70X
+Empty move.
+
+#org @DESC_EMPTYSLOT_71X
+Empty move.
+
+#org @DESC_EMPTYSLOT_72X
+Empty move.
+
+#org @DESC_EMPTYSLOT_73X
+Empty move.
+
+#org @DESC_EMPTYSLOT_74X
+Empty move.
+
+#org @DESC_EMPTYSLOT_75X
+Empty move.
+
+#org @DESC_EMPTYSLOT_76X
+Empty move.
+
+#org @DESC_EMPTYSLOT_77X
+Empty move.
+
+#org @DESC_EMPTYSLOT_78X
+Empty move.
+
+#org @DESC_EMPTYSLOT_79X
+Empty move.
+
+#org @DESC_EMPTYSLOT_80X
+Empty move.
+
+#org @DESC_EMPTYSLOT_81X
+Empty move.
+
+#org @DESC_EMPTYSLOT_82X
+Empty move.
+
+#org @DESC_EMPTYSLOT_83X
+Empty move.
+
+#org @DESC_EMPTYSLOT_84X
+Empty move.
+
+#org @DESC_EMPTYSLOT_85X
+Empty move.
+
+#org @DESC_EMPTYSLOT_86X
+Empty move.
+
+#org @DESC_EMPTYSLOT_87X
+Empty move.
+
+#org @DESC_EMPTYSLOT_88X
+Empty move.
+
+#org @DESC_EMPTYSLOT_89X
+Empty move.
+
+#org @DESC_EMPTYSLOT_90X
+Empty move.
+
+#org @DESC_EMPTYSLOT_91X
+Empty move.
+
+#org @DESC_EMPTYSLOT_92X
+Empty move.
+
+#org @DESC_EMPTYSLOT_93X
+Empty move.
+
+#org @DESC_EMPTYSLOT_94X
+Empty move.
+
+#org @DESC_EMPTYSLOT_95X
+Empty move.
+
+#org @DESC_EMPTYSLOT_96X
+Empty move.
+
+#org @DESC_EMPTYSLOT_97X
+Empty move.
+
+#org @DESC_EMPTYSLOT_98X
+Empty move.
+
+#org @DESC_EMPTYSLOT_99X
+Empty move.
+
+#org @DESC_EMPTYSLOT_100X
+Empty move.
+
+#org @DESC_EMPTYSLOT_101X
+Empty move.
+
+#org @DESC_EMPTYSLOT_102X
+Empty move.
+
+#org @DESC_EMPTYSLOT_103X
+Empty move.
+
+#org @DESC_EMPTYSLOT_104X
+Empty move.
+
+#org @DESC_EMPTYSLOT_105X
+Empty move.
+
+#org @DESC_EMPTYSLOT_106X
+Empty move.
+
+#org @DESC_EMPTYSLOT_107X
+Empty move.
+
+#org @DESC_EMPTYSLOT_108X
+Empty move.
+
+#org @DESC_EMPTYSLOT_109X
+Empty move.
+
+#org @DESC_EMPTYSLOT_110X
+Empty move.
+
+#org @DESC_EMPTYSLOT_111X
+Empty move.
+
+#org @DESC_EMPTYSLOT_112X
+Empty move.
+
+#org @DESC_EMPTYSLOT_113X
+Empty move.
+
+#org @DESC_EMPTYSLOT_114X
+Empty move.
+
+#org @DESC_EMPTYSLOT_115X
+Empty move.
+
+#org @DESC_EMPTYSLOT_116X
+Empty move.
+
+#org @DESC_EMPTYSLOT_117X
+Empty move.
+
+#org @DESC_EMPTYSLOT_118X
+Empty move.
+
+#org @DESC_EMPTYSLOT_119X
+Empty move.
+
+#org @DESC_EMPTYSLOT_120X
+Empty move.
+
+#org @DESC_EMPTYSLOT_121X
+Empty move.
+
+#org @DESC_EMPTYSLOT_122X
+Empty move.
+
+#org @DESC_EMPTYSLOT_123X
+Empty move.
+
+#org @DESC_EMPTYSLOT_124X
+Empty move.
+
+#org @DESC_EMPTYSLOT_125X
+Empty move.
+
+#org @DESC_EMPTYSLOT_126X
+Empty move.
+
+#org @DESC_EMPTYSLOT_127X
+Empty move.
+
+#org @DESC_EMPTYSLOT_128X
+Empty move.
+
+#org @DESC_EMPTYSLOT_129X
+Empty move.
+
+#org @DESC_EMPTYSLOT_130X
+Empty move.
+
+#org @DESC_EMPTYSLOT_131X
+Empty move.
+
+#org @DESC_EMPTYSLOT_132X
+Empty move.
+
+#org @DESC_EMPTYSLOT_133X
+Empty move.
+
+#org @DESC_EMPTYSLOT_134X
+Empty move.
+
+#org @DESC_EMPTYSLOT_135X
+Empty move.
+
+#org @DESC_EMPTYSLOT_136X
+Empty move.
+
+#org @DESC_EMPTYSLOT_137X
+Empty move.
+
+#org @DESC_EMPTYSLOT_138X
+Empty move.
+
+#org @DESC_EMPTYSLOT_139X
+Empty move.
+
+#org @DESC_EMPTYSLOT_140X
+Empty move.
+
+#org @DESC_EMPTYSLOT_141X
+Empty move.
+
+#org @DESC_EMPTYSLOT_142X
+Empty move.
+
+#org @DESC_EMPTYSLOT_143X
+Empty move.
+
+#org @DESC_EMPTYSLOT_144X
+Empty move.
+
+#org @DESC_EMPTYSLOT_145X
+Empty move.
+
+#org @DESC_EMPTYSLOT_146X
+Empty move.
+
+#org @DESC_EMPTYSLOT_147X
+Empty move.
+
+#org @DESC_EMPTYSLOT_148X
+Empty move.
+
+#org @DESC_EMPTYSLOT_149X
+Empty move.
+
+#org @DESC_EMPTYSLOT_150X
+Empty move.
+
+#org @DESC_EMPTYSLOT_151X
+Empty move.
+
+#org @DESC_EMPTYSLOT_152X
+Empty move.
+
+#org @DESC_EMPTYSLOT_153X
+Empty move.
+
+#org @DESC_EMPTYSLOT_154X
+Empty move.
+
+#org @DESC_EMPTYSLOT_155X
+Empty move.
+
+#org @DESC_EMPTYSLOT_156X
+Empty move.
+
+#org @DESC_EMPTYSLOT_157X
+Empty move.
+
+#org @DESC_EMPTYSLOT_158X
+Empty move.
+
+#org @DESC_EMPTYSLOT_159X
+Empty move.
+
+#org @DESC_EMPTYSLOT_160X
+Empty move.
+
+#org @DESC_EMPTYSLOT_161X
+Empty move.
+
+#org @DESC_EMPTYSLOT_162X
+Empty move.
+
+#org @DESC_EMPTYSLOT_163X
+Empty move.
+
+#org @DESC_EMPTYSLOT_164X
+Empty move.
+
+#org @DESC_EMPTYSLOT_165X
+Empty move.
+
+#org @DESC_EMPTYSLOT_166X
+Empty move.
+
+#org @DESC_EMPTYSLOT_167X
+Empty move.
+
+#org @DESC_EMPTYSLOT_168X
+Empty move.
+
+#org @DESC_EMPTYSLOT_169X
+Empty move.
+
+#org @DESC_EMPTYSLOT_170X
+Empty move.
+
+#org @DESC_EMPTYSLOT_171X
+Empty move.
+
+#org @DESC_EMPTYSLOT_172X
+Empty move.
+
+#org @DESC_EMPTYSLOT_173X
+Empty move.
+
+#org @DESC_EMPTYSLOT_174X
+Empty move.
+
+#org @DESC_EMPTYSLOT_175X
+Empty move.
+
+#org @DESC_EMPTYSLOT_176X
+Empty move.
+
+#org @DESC_EMPTYSLOT_177X
+Empty move.
+
+#org @DESC_EMPTYSLOT_178X
+Empty move.
+
+#org @DESC_EMPTYSLOT_179X
+Empty move.
+
+#org @DESC_EMPTYSLOT_180X
+Empty move.
+
+#org @DESC_EMPTYSLOT_181X
+Empty move.
+
+#org @DESC_EMPTYSLOT_182X
+Empty move.
+
+#org @DESC_EMPTYSLOT_183X
+Empty move.
+
+#org @DESC_EMPTYSLOT_184X
+Empty move.
+
+#org @DESC_EMPTYSLOT_185X
+Empty move.
+
+#org @DESC_EMPTYSLOT_186X
+Empty move.
+
+#org @DESC_EMPTYSLOT_187X
+Empty move.
+
+#org @DESC_EMPTYSLOT_188X
+Empty move.
+
+#org @DESC_EMPTYSLOT_189X
+Empty move.
+
+#org @DESC_EMPTYSLOT_190X
+Empty move.
+
+#org @DESC_EMPTYSLOT_191X
+Empty move.
+
+#org @DESC_EMPTYSLOT_192X
+Empty move.
+
+#org @DESC_EMPTYSLOT_193X
+Empty move.
+
+#org @DESC_EMPTYSLOT_194X
+Empty move.
+
+#org @DESC_EMPTYSLOT_195X
+Empty move.
+
+#org @DESC_EMPTYSLOT_196X
+Empty move.
+
+#org @DESC_EMPTYSLOT_197X
+Empty move.
+
+#org @DESC_EMPTYSLOT_198X
+Empty move.
+
+#org @DESC_EMPTYSLOT_199X
+Empty move.
+
+#org @DESC_EMPTYSLOT_200X
+Empty move.
+
+#org @DESC_EMPTYSLOT_201X
+Empty move.
+
+#org @DESC_EMPTYSLOT_202X
+Empty move.
+
+#org @DESC_EMPTYSLOT_203X
+Empty move.
+
+#org @DESC_EMPTYSLOT_204X
+Empty move.
+
+#org @DESC_EMPTYSLOT_205X
+Empty move.
+
+#org @DESC_EMPTYSLOT_206X
+Empty move.
+
+#org @DESC_EMPTYSLOT_207X
+Empty move.
+
+#org @DESC_EMPTYSLOT_208X
+Empty move.
+
+#org @DESC_EMPTYSLOT_209X
+Empty move.
+
+#org @DESC_EMPTYSLOT_210X
+Empty move.
+
+#org @DESC_EMPTYSLOT_211X
+Empty move.
+
+#org @DESC_EMPTYSLOT_212X
+Empty move.
+
+#org @DESC_EMPTYSLOT_213X
+Empty move.
+
+#org @DESC_EMPTYSLOT_214X
+Empty move.
+
+#org @DESC_EMPTYSLOT_215X
+Empty move.
+
+#org @DESC_EMPTYSLOT_216X
+Empty move.
+
+#org @DESC_EMPTYSLOT_217X
+Empty move.
+
+#org @DESC_EMPTYSLOT_218X
+Empty move.
+
+#org @DESC_EMPTYSLOT_219X
+Empty move.
+
+#org @DESC_EMPTYSLOT_220X
+Empty move.
+
+#org @DESC_EMPTYSLOT_221X
+Empty move.
+
+#org @DESC_EMPTYSLOT_222X
+Empty move.
+
+#org @DESC_EMPTYSLOT_223X
+Empty move.
+
+#org @DESC_EMPTYSLOT_224X
+Empty move.
+
+#org @DESC_EMPTYSLOT_225X
+Empty move.
+
+#org @DESC_EMPTYSLOT_226X
+Empty move.
+
+#org @DESC_EMPTYSLOT_227X
+Empty move.
+
+#org @DESC_EMPTYSLOT_228X
+Empty move.
+
+#org @DESC_EMPTYSLOT_229X
+Empty move.
+
+#org @DESC_EMPTYSLOT_230X
+Empty move.
+
+#org @DESC_EMPTYSLOT_231X
+Empty move.
+
+#org @DESC_EMPTYSLOT_232X
+Empty move.
+
+#org @DESC_EMPTYSLOT_233X
+Empty move.
+
+#org @DESC_EMPTYSLOT_234X
+Empty move.
+
+#org @DESC_EMPTYSLOT_235X
+Empty move.
+
+#org @DESC_EMPTYSLOT_236X
+Empty move.
+
+#org @DESC_EMPTYSLOT_237X
+Empty move.
+
+#org @DESC_EMPTYSLOT_238X
+Empty move.
+
+#org @DESC_EMPTYSLOT_239X
+Empty move.
+
+#org @DESC_EMPTYSLOT_240X
+Empty move.
+
+#org @DESC_EMPTYSLOT_241X
+Empty move.
+
+#org @DESC_EMPTYSLOT_242X
+Empty move.
+
+#org @DESC_EMPTYSLOT_243X
+Empty move.
+
+#org @DESC_EMPTYSLOT_244X
+Empty move.
+
+#org @DESC_EMPTYSLOT_245X
+Empty move.
+
+#org @DESC_EMPTYSLOT_246X
+Empty move.
+
+#org @DESC_EMPTYSLOT_247X
+Empty move.
+
+#org @DESC_EMPTYSLOT_248X
+Empty move.
+
+#org @DESC_EMPTYSLOT_249X
+Empty move.
+
+#org @DESC_EMPTYSLOT_250X
+Empty move.
+
 #org @DESC_MAX_GUARD
 Enables the user to\nevade all attacks.\nIt may fail if used\nin succession.
 
