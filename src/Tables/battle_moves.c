@@ -1335,7 +1335,7 @@ const struct BattleMove gBattleMoves[] =
 		.effect = EFFECT_SPEED_DOWN_2,
 		.power = 0,
 		.type = TYPE_BUG,
-		.accuracy = 95,
+		.accuracy = 100,
 		.pp = 40,
 		.secondaryEffectChance = 0,
 		.target = MOVE_TARGET_BOTH,
@@ -1367,7 +1367,7 @@ const struct BattleMove gBattleMoves[] =
 		.effect = EFFECT_TRAP,
 		.power = 35,
 		.type = TYPE_FIRE,
-		.accuracy = 85,
+		.accuracy = 95,
 		.pp = 15,
 		.secondaryEffectChance = 100,
 		.target = MOVE_TARGET_SELECTED,
@@ -2018,10 +2018,10 @@ const struct BattleMove gBattleMoves[] =
 		#ifdef UNBOUND
 		.accuracy = 100,
 		#else
-		.accuracy = 70,
+		.accuracy = 100,
 		#endif
 		.pp = 20,
-		.secondaryEffectChance = 40,
+		.secondaryEffectChance = 50,
 		.target = MOVE_TARGET_SELECTED,
 		.priority = 0,
 		.flags = FLAG_PROTECT_AFFECTED | FLAG_MIRROR_MOVE_AFFECTED,
@@ -2339,7 +2339,7 @@ const struct BattleMove gBattleMoves[] =
 		.effect = EFFECT_SLEEP,
 		.power = 0,
 		.type = TYPE_NORMAL,
-		.accuracy = 85,
+		.accuracy = 95,
 		.pp = 10,
 		.secondaryEffectChance = 0,
 		.target = MOVE_TARGET_SELECTED,
@@ -2545,9 +2545,9 @@ const struct BattleMove gBattleMoves[] =
 	[MOVE_BONEMERANG] =
 	{
 		.effect = EFFECT_DOUBLE_HIT,
-		.power = 50,
+		.power = 60,
 		.type = TYPE_GROUND,
-		.accuracy = 90,
+		.accuracy = 95,
 		.pp = 10,
 		.secondaryEffectChance = 0,
 		.target = MOVE_TARGET_SELECTED,
@@ -2577,7 +2577,7 @@ const struct BattleMove gBattleMoves[] =
 	[MOVE_ROCKSLIDE] =
 	{
 		.effect = EFFECT_FLINCH_HIT,
-		.power = 75,
+		.power = 80,
 		.type = TYPE_ROCK,
 		.accuracy = 90,
 		.pp = 10,
@@ -2836,7 +2836,7 @@ const struct BattleMove gBattleMoves[] =
 		#ifdef UNBOUND
 		.power = 80,
 		#else
-		.power = 50,
+		.power = 60,
 		#endif
 		.type = TYPE_NORMAL,
 		.accuracy = 100,
