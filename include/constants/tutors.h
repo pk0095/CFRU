@@ -149,20 +149,25 @@ enum MoveTutors
 	TUTOR144_DUAL_WINGBEAT,
 	TUTOR145_SCORCHING_SANDS,
 	TUTOR146_CONFUSE_RAY,
+	TUTOR147_SUCKER_PUNCH,
+	TUTOR148_SOFT_BOILED,
+	TUTOR149_DRILL_PECK,
+	TUTOR150_ANCIENT_POWER,
+	TUTOR151_ZAP_CANNON,
 	//NUM_MOVE_TUTORS
 };
 
 //Special Move Tutors - Not in Table
-//Numbers in comments are ideal numbers (if NUM_MOVE_TUTORS is 146)
+//Numbers in comments are ideal numbers (if NUM_MOVE_TUTORS is 151)
 enum SpecialMoveTutors
 {
-	TUTOR_SPECIAL_DRACO_METEOR = NUM_MOVE_TUTORS,	//147 - Dragon Pokemon
-	TUTOR_SPECIAL_SECRET_SWORD,						//148 - Keldeo only
-	TUTOR_SPECIAL_RELIC_SONG,						//149 - Meloetta only
-	TUTOR_SPECIAL_VOLT_TACKLE,						//150 - Pikachu only
-	TUTOR_SPECIAL_DRAGON_ASCENT,					//151 - Rayquaza only
-	TUTOR_SPECIAL_THOUSAND_ARROWS,					//152 - Zygarde only
-	TUTOR_SPECIAL_THOUSAND_WAVES,					//153 - Zygarde only
-	TUTOR_SPECIAL_CORE_ENFORCER,					//154 - Zygarde only
-	TUTOR_SPECIAL_STEEL_BEAM,						//155 - Steel Pokemon
+	TUTOR_SPECIAL_DRACO_METEOR = NUM_MOVE_TUTORS,	//152 - Dragon Pokemon
+	TUTOR_SPECIAL_SECRET_SWORD,						//153 - Keldeo only
+	TUTOR_SPECIAL_RELIC_SONG,						//154 - Meloetta only
+	TUTOR_SPECIAL_VOLT_TACKLE,						//155 - Pikachu only
+	TUTOR_SPECIAL_DRAGON_ASCENT,					//156 - Rayquaza only
+	TUTOR_SPECIAL_THOUSAND_ARROWS,					//157 - Zygarde only
+	TUTOR_SPECIAL_THOUSAND_WAVES,					//158 - Zygarde only
+	TUTOR_SPECIAL_CORE_ENFORCER,					//159 - Zygarde only
+	TUTOR_SPECIAL_STEEL_BEAM,						//160 - Steel Pokemon
 };
